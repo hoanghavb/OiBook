@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>144320318697-smke2prc40831nka3efpotlv4a9qkuug.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.144320318697-smke2prc40831nka3efpotlv4a9qkuug</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCMdd26d4mOa6riCHjmJR44CYIjikPqyh4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>144320318697</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>habh.OiBook</string>
+	<key>PROJECT_ID</key>
+	<string>oibook-aec38</string>
+	<key>STORAGE_BUCKET</key>
+	<string>oibook-aec38.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:144320318697:ios:601841ad38c5ae4f</string>
+	<key>DATABASE_URL</key>
+	<string>https://oibook-aec38.firebaseio.com</string>
+</dict>
+</plist>
